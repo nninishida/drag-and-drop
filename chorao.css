@@ -1,0 +1,18 @@
+#div1, #div2, #div3, #div4, #div5, #div6 {
+    float: left;
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+body {
+    background-color:rgba(130, 162, 244, 0.593); 
+}
+h1, p{
+    text-align: center;
+    font-family: Bradley Hand, cursive;
+}
+.alinhar{
+    flex-direction: column;
+}
